@@ -13,3 +13,6 @@ $ make
 
 ### Apoie o Projeto
 http://abrandaol.com.br
+
+### ABrandaoL Youtube channel
+http://youtube.com/abrandaol
