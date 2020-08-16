@@ -1,12 +1,12 @@
-ASsembly x64 using NASM, GCC e MakeFile
+# Assembly x64 using NASM, GCC e MakeFile
 
-# Install
+### Install
 $ sudo apt install gcc
 $ sudo apt install build-essential nasm
 $ sudo apt install vim
 
-# Build
+### Build
 $ make
 
-# Run 
+### Run 
 ./hello
