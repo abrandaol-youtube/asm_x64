@@ -19,3 +19,6 @@ http://abrandaol.com.br
 
 ### ABrandaoL Youtube channel
 http://youtube.com/abrandaol
+
+### Link para o vídeo deste exemplo
+https://bit.ly/3fWOZuk
